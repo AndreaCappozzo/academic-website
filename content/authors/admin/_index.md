@@ -56,4 +56,4 @@ Statistician, currently postdoctoral researcher at the [Department of Statistics
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
 
-* **Website finally up and running!** For (much appreciated) feedbacks, comments etc please fire an issue at GITHUB WEBSITE LINK
+* **Website finally up and running!** For (much appreciated) feedbacks, comments etc please fire an issue [here](https://github.com/AndreaCappozzo/academic-website)!
