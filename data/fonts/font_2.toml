@@ -1,0 +1,11 @@
+# Font style metadata
+name = "font_2"
+
+# Optional Google font URL
+google_fonts = "News+Cycle"
+
+# Font families
+heading_font = "News Cycle"
+body_font = "News Cycle"
+nav_font = "News Cycle"
+mono_font = "News Cycle"

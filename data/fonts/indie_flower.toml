@@ -1,0 +1,11 @@
+# Font style metadata
+name = "indie_flower"
+
+# Optional Google font URL
+google_fonts = "Open+Sans+Condensed:300"
+
+# Font families
+heading_font = "Open Sans Condensed"
+body_font = "Open Sans Condensed"
+nav_font = "Open Sans Condensed"
+mono_font = "Open Sans Condensed"
