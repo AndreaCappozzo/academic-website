@@ -5,7 +5,7 @@ bio: My research interests are related to the area of applied statistical learni
 education:
   courses:
   - course: PhD in Statistics and Mathematical Finance
-    institution: University of Milan-Bicocca
+    institution: University of Milano-Bicocca
     year: 2020
   - course: MSc in Statistical Sciences (with honors)
     institution: University of Padua
@@ -21,7 +21,7 @@ interests:
 - Variable selection
 - Statistical learning
 organizations:
-- name: University of Milan-Bicocca
+- name: University of Milano-Bicocca
   url: "https://www.unimib.it"
 role: Postdoctoral researcher in Statistics <br> Doctor Europaeus
 social:
@@ -52,7 +52,7 @@ user_groups:
 
 [//]: <> (Postdoctoral researcher, currently working with [Francesca Greselin](https://sites.google.com/unimib.it/francesca-greselin) on the project "Robust adaptive model-based classification: advances in learning from shifted data".)  
 
-Statistician, currently postdoctoral researcher at the [Department of Statistics and Quantitative Methods](https://www.dismeq.unimib.it/it) of [Milan-Bicocca University](https://www.unimib.it). Previously, PhD student in the same institution, working on ["Robust model-based classification and clustering: advances in learning from contaminated datasets"](https://boa.unimib.it/retrieve/handle/10281/262919/382625/phd_unimib_814541.pdf),  under the supervision of Professors [Francesca Greselin](https://sites.google.com/unimib.it/francesca-greselin) and [Brendan Murphy](https://maths.ucd.ie/~brendan/). My research interests are related to the area of applied statistical learning, with particular focus on robust mixture models. I am a passionate [<tt>R</tt>](https://cran.r-project.org) user and a [<tt>Tidyverse</tt>](https://www.tidyverse.org) fan.
+Statistician, currently postdoctoral researcher at the [Department of Statistics and Quantitative Methods](https://www.dismeq.unimib.it/it) of [Milano-Bicocca University](https://www.unimib.it). Previously, PhD student in the same institution, working on ["Robust model-based classification and clustering: advances in learning from contaminated datasets"](https://boa.unimib.it/retrieve/handle/10281/262919/382625/phd_unimib_814541.pdf),  under the supervision of Professors [Francesca Greselin](https://sites.google.com/unimib.it/francesca-greselin) and [Brendan Murphy](https://maths.ucd.ie/~brendan/). My research interests are related to the area of applied statistical learning, with particular focus on robust mixture models. I am a passionate [<tt>R</tt>](https://cran.r-project.org) user and a [<tt>Tidyverse</tt>](https://www.tidyverse.org) fan.
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
 
