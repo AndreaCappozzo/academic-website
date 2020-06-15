@@ -47,6 +47,11 @@ subtitle = ""
 +++
 
 **Articles in refereed journals**  
+1. **Cappozzo, A.**, Greselin, F., Murphy, T.B. (2020)  
+Anomaly and Novelty detection for robust semi-supervised learning.  
+*Statistics and Computing (accepted for publication)*  
+[arXiv](https://arxiv.org/abs/1911.08381) | [code](https://github.com/AndreaCappozzo/raedda)  
+
 1. **Cappozzo, A.**, Greselin, F., Murphy, T.B. (2019)  
 A robust approach to model-based classification based on trimming and constraints.  
 *Advances in Data Analysis and Classification (online first)*  
@@ -58,9 +63,5 @@ A robust approach to model-based classification based on trimming and constraint
 Robust variable selection for model-based learning
 in presence of adulteration  
 *In preparation*  
-1. **Cappozzo, A.**, Greselin, F., Murphy, T.B. (2020+)  
-Anomaly and Novelty detection for robust semi-supervised learning.  
-*Revision submitted*  
-[arXiv](https://arxiv.org/abs/1911.08381) | [code](https://github.com/AndreaCappozzo/raedda)  
 
 [Publications in monographs and refereed conference proceedings]({{< ref "/publications_full_list/index.md" >}}) 
