@@ -54,7 +54,7 @@ Anomaly and Novelty detection for robust semi-supervised learning.
 
 1. **Cappozzo, A.**, Greselin, F., Murphy, T.B. (2019)  
 A robust approach to model-based classification based on trimming and constraints.  
-*Advances in Data Analysis and Classification (in press)*  
+*Advances in Data Analysis and Classification, 14(2), 327-354*   
 [link](http://link.springer.com/10.1007/s11634-019-00371-w) | [arXiv](http://arxiv.org/abs/1904.06136) | [code](https://github.com/AndreaCappozzo/rupclass)
 
 **Submitted and working papers**  
