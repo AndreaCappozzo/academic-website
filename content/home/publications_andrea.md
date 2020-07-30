@@ -58,14 +58,17 @@ A robust approach to model-based classification based on trimming and constraint
 [link](http://link.springer.com/10.1007/s11634-019-00371-w) | [arXiv](http://arxiv.org/abs/1904.06136) | [code](https://github.com/AndreaCappozzo/rupclass)
 
 **Submitted and working papers**  
+1. **Cappozzo, A.**, Greselin, F., Murphy, T.B. (2020+)  
+Robust variable selection for model-based learning
+in presence of adulteration  
+*Submitted*   
+[arXiv](https://arxiv.org/abs/2007.14810)
+
 1. Denti, F., **Cappozzo, A.**, Greselin, F. (2020+)  
 A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information   
 *Submitted*  
 [arXiv](https://arxiv.org/abs/2006.09012) | [code](https://github.com/AndreaCappozzo/brand-public_repo)  
 
-1. **Cappozzo, A.**, Greselin, F., Murphy, T.B. (2020+)  
-Robust variable selection for model-based learning
-in presence of adulteration  
-*In preparation*  
+
 
 [Publications in monographs and refereed conference proceedings]({{< ref "/publications_full_list/index.md" >}}) 
