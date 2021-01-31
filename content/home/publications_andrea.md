@@ -47,6 +47,12 @@ subtitle = ""
 +++
 
 **Articles in refereed journals**  
+1. **Cappozzo, A.**, Greselin, F., Murphy, T.B. (2021)  
+Robust variable selection for model-based learning
+in presence of adulteration  
+*Computational Statistics & Data Analysis (online first)*   
+[link](https://www.sciencedirect.com/science/article/abs/pii/S0167947321000207) |[arXiv](https://arxiv.org/abs/2007.14810) | [code](https://github.com/AndreaCappozzo/varselEMST)  
+
 1. **Cappozzo, A.**, Greselin, F., Murphy, T.B. (2020)  
 Anomaly and Novelty detection for robust semi-supervised learning.  
 *Statistics and Computing, 30, 1545–1571*  
@@ -58,11 +64,6 @@ A robust approach to model-based classification based on trimming and constraint
 [link](http://link.springer.com/10.1007/s11634-019-00371-w) | [arXiv](http://arxiv.org/abs/1904.06136) | [code](https://github.com/AndreaCappozzo/rupclass)
 
 **Submitted and working papers**  
-1. **Cappozzo, A.**, Greselin, F., Murphy, T.B. (2020+)  
-Robust variable selection for model-based learning
-in presence of adulteration  
-*Submitted*   
-[arXiv](https://arxiv.org/abs/2007.14810)
 
 1. Denti, F., **Cappozzo, A.**, Greselin, F. (2020+)  
 A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information   

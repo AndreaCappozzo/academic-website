@@ -58,7 +58,6 @@ user_groups:
 Statistician, currently postdoctoral researcher at the [Department of Statistics and Quantitative Methods](https://www.dismeq.unimib.it/it) of [Milano-Bicocca University](https://www.unimib.it). Previously, PhD student in the same institution, working on ["Robust model-based classification and clustering: advances in learning from contaminated datasets"](https://boa.unimib.it/retrieve/handle/10281/262919/382625/phd_unimib_814541.pdf),  under the supervision of Professors [Francesca Greselin](https://sites.google.com/unimib.it/francesca-greselin) and [Brendan Murphy](https://maths.ucd.ie/~brendan/). My research interests are related to the area of applied statistical learning, with particular focus on robust mixture models. I am a passionate [<tt>R</tt>](https://cran.r-project.org) user and a [<tt>Tidyverse</tt>](https://www.tidyverse.org) fan.
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
-* [New Preprint!](https://arxiv.org/abs/2007.14810)    Robust variable selection for model-based learning in presence of adulteration (joint work with Greselin, F. and Murphy, T.B.)  
-* [New Article!](https://link.springer.com/article/10.1007%2Fs11222-020-09959-1)    Anomaly and Novelty detection for robust semi-supervised learning  (joint work with Greselin, F. and Murphy, T.B.)
+* [New Article!](https://www.sciencedirect.com/science/article/abs/pii/S0167947321000207)    Robust variable selection for model-based learning in presence of adulteration (joint work with Greselin, F. and Murphy, T.B.)  
 
 [//]: <> (* **Website finally up and running!** For (much appreciated) feedback please fire an issue [here](https://github.com/AndreaCappozzo/academic-website)!)
