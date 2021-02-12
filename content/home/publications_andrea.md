@@ -47,6 +47,11 @@ subtitle = ""
 +++
 
 **Articles in refereed journals**  
+1. **Cappozzo, A.**, Duponchel, L., Greselin, F., Murphy, T.B. (2021)  
+Robust variable selection in the framework of classification with label noise and outliers: applications to spectroscopic data in agri-food   
+*Analytica Chimica Acta (online first)*   
+[link](https://www.sciencedirect.com/science/article/abs/pii/S0003267021000714) |[arXiv](https://arxiv.org/abs/2010.10415) | [code](https://github.com/AndreaCappozzo/varselTBIC)  
+
 1. **Cappozzo, A.**, Greselin, F., Murphy, T.B. (2021)  
 Robust variable selection for model-based learning
 in presence of adulteration  
