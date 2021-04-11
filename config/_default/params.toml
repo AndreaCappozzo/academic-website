@@ -81,23 +81,23 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "andrea.cappozzo@unimib.it"
+email = "andrea.cappozzo@polimi.it"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Piazza dell'Ateneo Nuovo 1", city = "Milan", region = "MI", postcode = "20126", country = "United States", country_code = "IT"}
+address = {street = "La Nave, Via Edoardo Bonardi, 9", city = "Milan", region = "MI", postcode = "20133", country = "Italy", country_code = "IT"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 # coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building U7 and take the stairs to Office 4136 on Floor 04"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Wednesday 10:00 to 11:30"]
+office_hours = ["Friday 10:00 to 11:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""

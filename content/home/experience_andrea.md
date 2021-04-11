@@ -47,10 +47,13 @@
 +++
 
 <font size="5"> <b> University </b> </font>    
-**Postdoctoral research fellow**, Department of Statistics and Quantitative Methods (2020/04-Ongoing)   
-*University of Milano-Bicocca*  
+**Assistant Professor**, Department of Mathematics (2021/04-Ongoing)   
+*Politecnico di Milano*  
 
 **Teaching Assistant**, BSc courses in Statistics and Statistical Methods (2019/02-Ongoing)   
+*University of Milano-Bicocca*  
+
+**Postdoctoral research fellow**, Department of Statistics and Quantitative Methods (2020/04-2021/03)   
 *University of Milano-Bicocca*  
 
 **Teaching Assistant**, BSc course in Statistics (2017/09-2018/02)   

@@ -5,15 +5,18 @@ name = "andrea_layout"
 light = true
 
 # Primary
-primary = "#a41d3c"
+primary = "#537ab0"
 
 # Menu
 menu_primary = "#c9c9cb"
 menu_text = "#262125"
-menu_text_active = "#a41d3c"
+menu_text_active = "#537ab0"
 menu_title = "#262125"
 
 # Backgrounds Bicocca: a41d3c
+# Backgrounds Polimi: #0f2c53
+# Backgrounds Polimi2: #537ab0
 background = "#ffffff"
 home_section_odd = "#ffffff"
 home_section_even = "#ebedeb"
+
