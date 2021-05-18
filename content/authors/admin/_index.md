@@ -59,6 +59,10 @@ Statistician, currently Assistant Professor (RTDa) at the [Department of Mathema
 
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
-* The paper [Robust variable selection in the framework of classification with label noise and outliers: applications to spectroscopic data in agri-food](https://www.sciencedirect.com/science/article/abs/pii/S0003267021000714), joint work with Duponchel L., Greselin, F. and Murphy, T.B., has been   published as featured article in Analytica Chimica Acta: check the issue cover [here](Outside-Front-Cover_2021_Analytica-Chimica-Acta.pdf)!
+
+* [New Preprint!](https://arxiv.org/abs/2105.07935)    Group-wise shrinkage for multiclass Gaussian Graphical Models (joint work with Casa, A. and Fop, M.) 
+
+
+[//]: <> (* The paper [Robust variable selection in the framework of classification with label noise and outliers: applications to spectroscopic data in agri-food](https://www.sciencedirect.com/science/article/abs/pii/S0003267021000714), joint work with Duponchel L., Greselin, F. and Murphy, T.B., has been   published as featured article in Analytica Chimica Acta: check the issue cover [here](Outside-Front-Cover_2021_Analytica-Chimica-Acta.pdf)!)
 
 [//]: <> (* **Website finally up and running!** For (much appreciated) feedback please fire an issue [here](https://github.com/AndreaCappozzo/academic-website)!)

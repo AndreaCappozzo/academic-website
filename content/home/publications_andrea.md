@@ -47,6 +47,11 @@ subtitle = ""
 +++
 
 **Articles in refereed journals**  
+1. Denti, F., **Cappozzo, A.**, Greselin, F. (2021)  
+A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information   
+*Accepted for publication in Statistics and Computing*  
+[arXiv](https://arxiv.org/abs/2006.09012) | [code](https://github.com/AndreaCappozzo/brand-public_repo)  
+
 1. **Cappozzo, A.**, Duponchel, L., Greselin, F., Murphy, T.B. (2021)  
 Robust variable selection in the framework of classification with label noise and outliers: applications to spectroscopic data in agri-food   
 *Analytica Chimica Acta (online first)*   
@@ -70,10 +75,10 @@ A robust approach to model-based classification based on trimming and constraint
 
 **Submitted and working papers**  
 
-1. Denti, F., **Cappozzo, A.**, Greselin, F. (2020+)  
-A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information   
-*Submitted*  
-[arXiv](https://arxiv.org/abs/2006.09012) | [code](https://github.com/AndreaCappozzo/brand-public_repo)  
+1. Casa, A., **Cappozzo, A.**, Fop, M. (2021+)  
+Group-wise shrinkage for multiclass Gaussian Graphical Models   
+*Submitted*   
+[arXiv](https://arxiv.org/abs/2105.07935) | [code](https://github.com/AndreaCappozzo/sparsemix)
 
 
 
