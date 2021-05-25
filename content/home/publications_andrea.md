@@ -49,8 +49,8 @@ subtitle = ""
 **Articles in refereed journals**  
 1. Denti, F., **Cappozzo, A.**, Greselin, F. (2021)  
 A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information   
-*Accepted for publication in Statistics and Computing*  
-[arXiv](https://arxiv.org/abs/2006.09012) | [code](https://github.com/AndreaCappozzo/brand-public_repo)  
+*Statistics and Computing (online first)*  
+[link](https://link.springer.com/article/10.1007%2Fs11222-021-10017-7) |[arXiv](https://arxiv.org/abs/2006.09012) | [code](https://github.com/AndreaCappozzo/brand-public_repo)  
 
 1. **Cappozzo, A.**, Duponchel, L., Greselin, F., Murphy, T.B. (2021)  
 Robust variable selection in the framework of classification with label noise and outliers: applications to spectroscopic data in agri-food   

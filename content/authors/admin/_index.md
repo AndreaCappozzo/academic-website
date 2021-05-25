@@ -60,6 +60,7 @@ Statistician, currently Assistant Professor (RTDa) at the [Department of Mathema
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
 
+* [New Article!](https://link.springer.com/article/10.1007%2Fs11222-021-10017-7) A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information   (joint work with Denti, F. and Greselin, F.) 
 * [New Preprint!](https://arxiv.org/abs/2105.07935)    Group-wise shrinkage for multiclass Gaussian Graphical Models (joint work with Casa, A. and Fop, M.) 
 
 
