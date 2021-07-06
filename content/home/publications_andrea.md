@@ -47,6 +47,11 @@ subtitle = ""
 +++
 
 **Articles in refereed journals**  
+1. **Cappozzo, A.**, García Escudero, L.A., Greselin, F., Mayo-Iscar, A. (2021)  
+Parameter Choice, Stability and Validity for Robust Cluster Weighted Modeling   
+*Stats 2021, 4(3)*  
+[link](https://www.mdpi.com/2571-905X/4/3/36) | [code](https://github.com/AndreaCappozzo/STATS-monitoring_CWRM)  
+
 1. Denti, F., **Cappozzo, A.**, Greselin, F. (2021)  
 A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information   
 *Statistics and Computing (online first)*  
