@@ -50,7 +50,7 @@
 **Assistant Professor**, Department of Mathematics (2021/04-Ongoing)   
 *Politecnico di Milano*  
 
-**Teaching Assistant**, BSc courses in Statistics and Statistical Methods (2019/02-Ongoing)   
+**Teaching Assistant**, BSc courses in Statistics and Statistical Methods (2019/02-2021/07)   
 *University of Milano-Bicocca*  
 
 **Postdoctoral research fellow**, Department of Statistics and Quantitative Methods (2020/04-2021/03)   

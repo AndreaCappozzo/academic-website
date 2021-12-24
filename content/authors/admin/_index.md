@@ -53,17 +53,9 @@ user_groups:
 - Visitors
 ---
 
-[//]: <> (Postdoctoral researcher, currently working with [Francesca Greselin](https://sites.google.com/unimib.it/francesca-greselin) on the project "Robust adaptive model-based classification: advances in learning from shifted data".)  
-
 Statistician, currently Assistant Professor (RTDa) at the [Department of Mathematics](https://www.mate.polimi.it) of [Politecnico di Milano](https://www.polimi.it). Previously, postdoctoral researcher at University of Milano-Bicocca, working on model-based classification methods for anomaly detection and variable selection. My research interests are related to the area of applied statistical learning, with particular focus on robust mixture models. I am a passionate [<tt>R</tt>](https://cran.r-project.org) user and a [<tt>Tidyverse</tt>](https://www.tidyverse.org) fan.
 
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
 
-* [New Article!](https://www.mdpi.com/2571-905X/4/3/36) Parameter Choice, Stability and Validity for Robust Cluster Weighted Modeling   (joint work with Greselin, F., García Escudero, L.A. and Mayo-Iscar, A.) 
-* [New Article!](https://link.springer.com/article/10.1007%2Fs11222-021-10017-7) A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information   (joint work with Denti, F. and Greselin, F.) 
-
-
-[//]: <> (* The paper [Robust variable selection in the framework of classification with label noise and outliers: applications to spectroscopic data in agri-food](https://www.sciencedirect.com/science/article/abs/pii/S0003267021000714), joint work with Duponchel L., Greselin, F. and Murphy, T.B., has been   published as featured article in Analytica Chimica Acta: check the issue cover [here](Outside-Front-Cover_2021_Analytica-Chimica-Acta.pdf)!)
-
-[//]: <> (* **Website finally up and running!** For (much appreciated) feedback please fire an issue [here](https://github.com/AndreaCappozzo/academic-website)!)
+* [New Preprint!](https://arxiv.org/abs/2112.12719) A general framework for penalized mixed-effects multitask learning with application on DNAm biomarkers creation   (joint work with Ieva, F. and Fiorito, G.) 

@@ -80,6 +80,11 @@ A robust approach to model-based classification based on trimming and constraint
 
 **Submitted and working papers**  
 
+1. **Cappozzo, A.**, Ieva, F., Fiorito, G. (2021+)  
+A general framework for penalized mixed-effects multitask learning with application on DNAm biomarkers creation   
+*Submitted*   
+[arXiv](https://arxiv.org/abs/2112.12719) | [code](https://github.com/AndreaCappozzo/emlmm)
+
 1. Casa, A., **Cappozzo, A.**, Fop, M. (2021+)  
 Group-wise shrinkage for multiclass Gaussian Graphical Models   
 *Submitted*   
