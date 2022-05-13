@@ -54,18 +54,18 @@ Parameter Choice, Stability and Validity for Robust Cluster Weighted Modeling
 
 1. Denti, F., **Cappozzo, A.**, Greselin, F. (2021)  
 A Two-Stage Bayesian Nonparametric Model for Novelty Detection with Robust Prior Information   
-*Statistics and Computing (online first)*  
+*Statistics and Computing, 32, 18*  
 [link](https://link.springer.com/article/10.1007%2Fs11222-021-10017-7) |[arXiv](https://arxiv.org/abs/2006.09012) | [code](https://github.com/AndreaCappozzo/brand-public_repo)  
 
 1. **Cappozzo, A.**, Duponchel, L., Greselin, F., Murphy, T.B. (2021)  
 Robust variable selection in the framework of classification with label noise and outliers: applications to spectroscopic data in agri-food   
-*Analytica Chimica Acta (online first)*   
+*Analytica Chimica Acta, 1153, 338245*   
 [link](https://www.sciencedirect.com/science/article/abs/pii/S0003267021000714) |[arXiv](https://arxiv.org/abs/2010.10415) | [code](https://github.com/AndreaCappozzo/varselTBIC) |[cover](Outside-Front-Cover_2021_Analytica-Chimica-Acta.pdf) 
 
 1. **Cappozzo, A.**, Greselin, F., Murphy, T.B. (2021)  
 Robust variable selection for model-based learning
 in presence of adulteration  
-*Computational Statistics & Data Analysis (online first)*   
+*Computational Statistics & Data Analysis, 158, 107186*   
 [link](https://www.sciencedirect.com/science/article/abs/pii/S0167947321000207) |[arXiv](https://arxiv.org/abs/2007.14810) | [code](https://github.com/AndreaCappozzo/varselEMST)  
 
 1. **Cappozzo, A.**, Greselin, F., Murphy, T.B. (2020)  
@@ -80,16 +80,16 @@ A robust approach to model-based classification based on trimming and constraint
 
 **Submitted and working papers**  
 
-1. **Cappozzo, A.**, Ieva, F., Fiorito, G. (2021+)  
+1. **Cappozzo, A.**, Ieva, F., Fiorito, G. (2022+)  
 A general framework for penalized mixed-effects multitask learning with application on DNAm biomarkers creation   
 *Submitted*   
 [arXiv](https://arxiv.org/abs/2112.12719) | [code](https://github.com/AndreaCappozzo/emlmm)
 
-1. Casa, A., **Cappozzo, A.**, Fop, M. (2021+)  
-Group-wise shrinkage for multiclass Gaussian Graphical Models   
-*Submitted*   
+1. Casa, A., **Cappozzo, A.**, Fop, M. (2022+)  
+Group-wise shrinkage estimation in penalized model-based clustering   
+*Revision submitted*   
 [arXiv](https://arxiv.org/abs/2105.07935) | [code](https://github.com/AndreaCappozzo/sparsemix)
 
 
+<!-- [Publications in monographs and refereed conference proceedings]({{< ref "/publications_full_list/index.md" >}}) -->
 
-[Publications in monographs and refereed conference proceedings]({{< ref "/publications_full_list/index.md" >}}) 
