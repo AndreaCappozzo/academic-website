@@ -47,6 +47,17 @@ subtitle = ""
 +++
 
 **Articles in refereed journals**  
+
+1. Casa, A., **Cappozzo, A.**, Fop, M. (2022)  
+Group-wise shrinkage estimation in penalized model-based clustering   
+*Journal of Classification (online first)*   
+[link](https://link.springer.com/article/10.1007/s00357-022-09421-z) |[arXiv](https://arxiv.org/abs/2105.07935) | [code](https://github.com/AndreaCappozzo/sparsemix)
+
+1. **Cappozzo, A.**, McCrory, C., Robinson, O. et al. (2022)  
+A blood DNA methylation biomarker for predicting short-term risk of cardiovascular events   
+*Clinical Epigenetics 14, 121*   
+[link](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-022-01341-4) | [code](https://github.com/AndreaCappozzo/mixedelnet)
+
 1. **Cappozzo, A.**, García Escudero, L.A., Greselin, F., Mayo-Iscar, A. (2021)  
 Parameter Choice, Stability and Validity for Robust Cluster Weighted Modeling   
 *Stats 2021, 4(3)*  
@@ -84,11 +95,6 @@ A robust approach to model-based classification based on trimming and constraint
 A general framework for penalized mixed-effects multitask learning with application on DNAm biomarkers creation   
 *Submitted*   
 [arXiv](https://arxiv.org/abs/2112.12719) | [code](https://github.com/AndreaCappozzo/emlmm)
-
-1. Casa, A., **Cappozzo, A.**, Fop, M. (2022+)  
-Group-wise shrinkage estimation in penalized model-based clustering   
-*Revision submitted*   
-[arXiv](https://arxiv.org/abs/2105.07935) | [code](https://github.com/AndreaCappozzo/sparsemix)
 
 
 <!-- [Publications in monographs and refereed conference proceedings]({{< ref "/publications_full_list/index.md" >}}) -->

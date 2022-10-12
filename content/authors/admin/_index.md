@@ -58,4 +58,6 @@ Statistician, currently Assistant Professor (RTDa) at the [Department of Mathema
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
 
-* [New Preprint!](https://arxiv.org/abs/2112.12719) A general framework for penalized mixed-effects multitask learning with application on DNAm biomarkers creation   (joint work with Ieva, F. and Fiorito, G.) 
+* [New Article!](https://link.springer.com/article/10.1007/s00357-022-09421-z) Group-wise shrinkage estimation in penalized model-based clustering   (joint work with Casa, A. and Fop, M.) 
+
+* [New Article!](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-022-01341-4) A blood DNA methylation biomarker for predicting short-term risk of cardiovascular events   (joint work with Ieva, F., Fiorito, G. et al.) 
