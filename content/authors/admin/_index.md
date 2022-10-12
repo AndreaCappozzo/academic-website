@@ -23,7 +23,7 @@ interests:
 organizations:
 - name: Politecnico di Milano
   url: "https://www.polimi.it"
-role: Assistant Professor in Statistics <br> Doctor Europaeus
+role: Assistant Professor of Statistics <br> Doctor Europaeus
 social:
 - icon: envelope
   icon_pack: fas
