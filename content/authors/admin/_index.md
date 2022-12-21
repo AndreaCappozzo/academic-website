@@ -53,11 +53,11 @@ user_groups:
 - Visitors
 ---
 
-Statistician, currently Assistant Professor (RTDa) at the [Department of Mathematics](https://www.mate.polimi.it) of [Politecnico di Milano](https://www.polimi.it). Previously, postdoctoral researcher at University of Milano-Bicocca, working on model-based classification methods for anomaly detection and variable selection. My research interests are related to the area of applied statistical learning, with particular focus on robust mixture models. I am a passionate [<tt>R</tt>](https://cran.r-project.org) user and a [<tt>Tidyverse</tt>](https://www.tidyverse.org) fan.
+Statistician, currently Assistant Professor (RTDa) at the [Department of Mathematics](https://www.mate.polimi.it) of [Politecnico di Milano](https://www.polimi.it). I am a member of the [MOX](https://mox.polimi.it) laboratory of mathematical modelling and scientific computing, working within the [Health Analytics](https://mox.polimi.it/research-areas/health-analytics/) research area. My methodological interests are related to the domain of applied statistics and statistical learning, with particular focus on mixture modeling. I am a passionate [<tt>R</tt>](https://cran.r-project.org) user and a [<tt>Tidyverse</tt>](https://www.tidyverse.org) fan.
 
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
 
-* [New Article!](https://link.springer.com/article/10.1007/s00357-022-09421-z) Group-wise shrinkage estimation in penalized model-based clustering   (joint work with Casa, A. and Fop, M.) 
+* [New Article!](https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2154218) Graphical and computational tools to guide parameter choice for the cluster weighted robust model   (joint work with García-Escudero, L.A., Greselin, F. and Mayo-Iscar, A.) 
 
-* [New Article!](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-022-01341-4) A blood DNA methylation biomarker for predicting short-term risk of cardiovascular events   (joint work with Ieva, F., Fiorito, G. et al.) 
+* [New Preprint!](https://arxiv.org/abs/2212.01865) Variational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets   (joint work with Benedetti, L. et al.) 
