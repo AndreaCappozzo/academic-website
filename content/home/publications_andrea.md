@@ -55,7 +55,7 @@ Graphical and computational tools to guide parameter choice for the cluster weig
 
 1. Casa, A., **Cappozzo, A.**, Fop, M. (2022)  
 Group-wise shrinkage estimation in penalized model-based clustering   
-*Journal of Classification (online first)*   
+*Journal of Classification, 39(3), 648–674.*   
 [link](https://link.springer.com/article/10.1007/s00357-022-09421-z) |[arXiv](https://arxiv.org/abs/2105.07935) | [code](https://github.com/AndreaCappozzo/sparsemix)
 
 1. **Cappozzo, A.**, McCrory, C., Robinson, O. et al. (2022)  
