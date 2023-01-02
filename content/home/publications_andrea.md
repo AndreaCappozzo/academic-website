@@ -95,12 +95,12 @@ A robust approach to model-based classification based on trimming and constraint
 [link](http://link.springer.com/10.1007/s11634-019-00371-w) | [arXiv](http://arxiv.org/abs/1904.06136) | [code](https://github.com/AndreaCappozzo/rupclass)
 
 **Submitted and working papers**  
-1. Benetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., **Cappozzo, A.**, & Denti, F. (2022+)    
+1. Benetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., **Cappozzo, A.**, & Denti, F. (2023+)    
 Variational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets         
 *Submitted*  
 [arXiv](https://arxiv.org/abs/2212.01865)| [code](https://github.com/JacopoGhirri/VarBRAND)
 
-1. **Cappozzo, A.**, Ieva, F., Fiorito, G. (2022+)  
+1. **Cappozzo, A.**, Ieva, F., Fiorito, G. (2023+)  
 A general framework for penalized mixed-effects multitask learning with application on DNAm biomarkers creation   
 *Revision submitted*   
 [arXiv](https://arxiv.org/abs/2112.12719) | [code](https://github.com/AndreaCappozzo/emlmm)
