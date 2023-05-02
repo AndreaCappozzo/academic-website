@@ -47,8 +47,12 @@ subtitle = ""
 +++
 
 **Articles in refereed journals**  
+1. **Cappozzo, A.**, Ieva, F., Fiorito, G. (2023)  
+A general framework for penalized mixed-effects multitask learning with applications on DNA methylation surrogate biomarkers creation   
+*Annals of Applied Statistics (to appear)*   
+[arXiv](https://arxiv.org/abs/2112.12719) | [code](https://github.com/AndreaCappozzo/emlmm)
 
-1. **Cappozzo, A.**, García Escudero, L.A., Greselin, F., Mayo-Iscar, A. (2022)  
+1. **Cappozzo, A.**, García Escudero, L.A., Greselin, F., Mayo-Iscar, A. (2023)  
 Graphical and computational tools to guide parameter choice for the cluster weighted robust model  
 *Journal of Computational and Graphical Statistics (online first)*  
 [link](https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2154218) | [code](https://github.com/AndreaCappozzo/CWRMmonitor)  
@@ -99,11 +103,6 @@ A robust approach to model-based classification based on trimming and constraint
 Variational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets         
 *Submitted*  
 [arXiv](https://arxiv.org/abs/2212.01865)| [code](https://github.com/JacopoGhirri/VarBRAND)
-
-1. **Cappozzo, A.**, Ieva, F., Fiorito, G. (2023+)  
-A general framework for penalized mixed-effects multitask learning with application on DNAm biomarkers creation   
-*Revision submitted*   
-[arXiv](https://arxiv.org/abs/2112.12719) | [code](https://github.com/AndreaCappozzo/emlmm)
 
 
 <!-- [Publications in monographs and refereed conference proceedings]({{< ref "/publications_full_list/index.md" >}}) -->
