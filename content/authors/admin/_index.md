@@ -58,6 +58,4 @@ Statistician, currently Assistant Professor (RTDa) at the [Department of Mathema
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
 
-* [New Article!](https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2154218) Graphical and computational tools to guide parameter choice for the cluster weighted robust model   (joint work with García-Escudero, L.A., Greselin, F. and Mayo-Iscar, A.) 
-
-* [New Preprint!](https://arxiv.org/abs/2212.01865) Variational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets   (joint work with Benedetti, L. et al.) 
+* [New Mox report!](https://mox.polimi.it/reports-and-books/publication-results/?id=1163) Functional Boxplot Inflation Factor adjustment through Robust Covariance Estimators   (joint work with Rossi, A. and Ieva, F.) 
