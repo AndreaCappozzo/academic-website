@@ -105,7 +105,8 @@ Sparse model-based clustering of three-way data via lasso-type penalties
 *Submitted*   
 [arXiv](https://arxiv.org/abs/2307.10673) | [code](https://github.com/AndreaCappozzo/sparsemixmat)
 
-1. Rossi, A., **Cappozzo, A.**, & Ieva, F. (2023+). Functional Boxplot Inflation Factor adjustment through Robust Covariance Estimators      
+1. Rossi, A., **Cappozzo, A.**, & Ieva, F. (2023+)    
+Functional Boxplot Inflation Factor adjustment through Robust Covariance Estimators      
 *Submitted*   
 [mox report](https://mox.polimi.it/reports-and-books/publication-results/?id=1163)
 | [code](https://github.com/annachiara-rossi/robust-adj-fbplot)
