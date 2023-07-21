@@ -58,4 +58,5 @@ Statistician, currently Assistant Professor (RTDa) at the [Department of Mathema
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
 
+* [New Preprint!](https://arxiv.org/abs/2307.10673) Sparse model-based clustering of three-way data via lasso-type penalties   (joint work with Casa, A. and Fop, M.) 
 * [New Mox report!](https://mox.polimi.it/reports-and-books/publication-results/?id=1163) Functional Boxplot Inflation Factor adjustment through Robust Covariance Estimators   (joint work with Rossi, A. and Ieva, F.) 
