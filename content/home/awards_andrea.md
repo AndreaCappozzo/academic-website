@@ -46,6 +46,9 @@
   css_class = ""
 +++
 
+**Young Researcher Paper Award**  (2023/09)   
+CLADAG 2023 14-th Scientific Meeting Classification and Data Analysis Group     
+*Salerno, Italy*
 
 **Best poster presentation**  (2018/09)   
 MBC<sup>2</sup> Workshop on Models and Learning for Clustering and Classification  
