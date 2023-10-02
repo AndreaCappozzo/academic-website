@@ -33,7 +33,7 @@ social:
   link: https://twitter.com/AndreaCappozzo
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=StmiLzgAAAAJ&hl=it&oi=ao
+  link: https://scholar.google.com/citations?hl=it&view_op=list_works&gmla=AP6z3OZgOhc09-qfSKoeqz524YlC9an53POnmD1w7mNaO_L-bFbamJ1VXGHRuQOMpkeLkk8uh7P-lgwxXwvfwm9K&user=UhnUw5UAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/AndreaCappozzo
