@@ -54,7 +54,7 @@ A general framework for penalized mixed-effects multitask learning with applicat
 
 1. **Cappozzo, A.**, García Escudero, L.A., Greselin, F., Mayo-Iscar, A. (2023)  
 Graphical and computational tools to guide parameter choice for the cluster weighted robust model  
-*Journal of Computational and Graphical Statistics (online first)*  
+*Journal of Computational and Graphical Statistics 32(3),1195–1214*  
 [link](https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2154218) | [code](https://github.com/AndreaCappozzo/CWRMmonitor)  
 
 1. Casa, A., **Cappozzo, A.**, Fop, M. (2022)  
