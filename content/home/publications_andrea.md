@@ -47,10 +47,17 @@ subtitle = ""
 +++
 
 **Articles in refereed journals**  
+
+1. Benetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., **Cappozzo, A.**, & Denti, F. (2023+)    
+Variational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets         
+*Advances in Data Analysis and Classification (to appear)*  
+[arXiv](https://arxiv.org/abs/2212.01865)| [code](https://github.com/JacopoGhirri/VarBRAND)
+
+
 1. **Cappozzo, A.**, Ieva, F., Fiorito, G. (2023)  
 A general framework for penalized mixed-effects multitask learning with applications on DNA methylation surrogate biomarkers creation   
-*Annals of Applied Statistics (to appear)*   
-[arXiv](https://arxiv.org/abs/2112.12719) | [code](https://github.com/AndreaCappozzo/emlmm)
+*Annals of Applied Statistics 17(4), 3257-3282*   
+[link](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-4/A-general-framework-for-penalized-mixed-effects-multitask-learning-with/10.1214/23-AOAS1760.short) | [arXiv](https://arxiv.org/abs/2112.12719) | [code](https://github.com/AndreaCappozzo/emlmm)
 
 1. **Cappozzo, A.**, García Escudero, L.A., Greselin, F., Mayo-Iscar, A. (2023)  
 Graphical and computational tools to guide parameter choice for the cluster weighted robust model  
@@ -110,11 +117,6 @@ Functional Boxplot Inflation Factor adjustment through Robust Covariance Estimat
 *Submitted*   
 [mox report](https://mox.polimi.it/reports-and-books/publication-results/?id=1163)
 | [code](https://github.com/annachiara-rossi/robust-adj-fbplot)
-
-1. Benetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., **Cappozzo, A.**, & Denti, F. (2023+)    
-Variational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets         
-*Revision submitted*  
-[arXiv](https://arxiv.org/abs/2212.01865)| [code](https://github.com/JacopoGhirri/VarBRAND)
 
 
 <!-- [Publications in monographs and refereed conference proceedings]({{< ref "/publications_full_list/index.md" >}}) -->
