@@ -50,8 +50,8 @@ subtitle = ""
 
 1. Benetti, L., Boniardi, E., Chiani, L., Ghirri, J., Mastropietro, M., **Cappozzo, A.**, & Denti, F. (2023+)    
 Variational Inference for Semiparametric Bayesian Novelty Detection in Large Datasets         
-*Advances in Data Analysis and Classification (to appear)*  
-[arXiv](https://arxiv.org/abs/2212.01865)| [code](https://github.com/JacopoGhirri/VarBRAND)
+*Advances in Data Analysis and Classification (online first)*  
+[link](https://link.springer.com/article/10.1007/s11634-023-00569-z) | [arXiv](https://arxiv.org/abs/2212.01865) | [code](https://github.com/JacopoGhirri/VarBRAND)
 
 
 1. **Cappozzo, A.**, Ieva, F., Fiorito, G. (2023)  
