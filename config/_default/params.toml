@@ -81,12 +81,12 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "andrea.cappozzo@polimi.it"
+email = "andrea.cappozzo@unimi.it"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Office 217, La Nave, Via Edoardo Bonardi, 9", city = "Milan", region = "MI", postcode = "20133", country = "Italy", country_code = "IT"}
+address = {street = "Office 29, Via Conservatorio, 7", city = "Milan", region = "MI", postcode = "20122", country = "Italy", country_code = "IT"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

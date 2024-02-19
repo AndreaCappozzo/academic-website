@@ -47,7 +47,10 @@
 +++
 
 <font size="5"> <b> University </b> </font>    
-**Assistant Professor**, Department of Mathematics (2021/04-Ongoing)   
+**Assistant Professor**, Department of Economics, Management, and Quantitative Methods (2024/02-Ongoing)   
+*University of Milan*  
+
+**Assistant Professor**, Department of Mathematics (2021/04-2024/02)   
 *Politecnico di Milano*  
 
 **Teaching Assistant**, BSc courses in Statistics and Statistical Methods (2019/02-2021/07)   

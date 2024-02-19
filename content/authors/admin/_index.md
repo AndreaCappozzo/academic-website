@@ -21,13 +21,13 @@ interests:
 - Variable selection
 - Statistical learning
 organizations:
-- name: Politecnico di Milano
-  url: "https://www.polimi.it"
+- name: University of Milan
+  url: "https://www.unimi.it/en"
 role: Assistant Professor of Statistics <br> Doctor Europaeus
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:andrea.cappozzo@polimi.it
+  link: mailto:andrea.cappozzo@unimi.it
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AndreaCappozzo
@@ -53,7 +53,7 @@ user_groups:
 - Visitors
 ---
 
-Statistician, currently Assistant Professor (RTDa) at the [Department of Mathematics](https://www.mate.polimi.it) of [Politecnico di Milano](https://www.polimi.it). I am a member of the [MOX](https://mox.polimi.it) laboratory of mathematical modelling and scientific computing, working within the [Health Analytics](https://mox.polimi.it/research-areas/health-analytics/) research area. My methodological interests are related to the domain of applied statistics and statistical learning, with particular focus on mixture modeling. I am a passionate [<tt>R</tt>](https://cran.r-project.org) user and a [<tt>Tidyverse</tt>](https://www.tidyverse.org) fan.
+Statistician, currently Assistant Professor (RTDB) at the [Department of Economics, Management, and Quantitative Methods](https://demm.unimi.it/en/home) of [University of Milan](https://www.unimi.it/en). My methodological interests are related to the domain of applied statistics and statistical learning, with particular focus on mixture modeling. I am a passionate [<tt>R</tt>](https://cran.r-project.org) user and a [<tt>Tidyverse</tt>](https://www.tidyverse.org) fan.
 
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
