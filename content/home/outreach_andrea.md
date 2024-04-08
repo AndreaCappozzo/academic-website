@@ -48,8 +48,4 @@
 
 **Member** of the [Italian Statistical Society](http://www.sis-statistica.it), its young group [y-SIS](https://youngsis.github.io) and the [Institute of Mathematical Statistics](https://imstat.org)  
 
-**Volounteer data scientist** at [HeartInData](https://www.heartindata.it), a group of data professionals
-based in Milan (IT) offering their passion, dedication and talents
-for social good.  
-
 **Leaf** at the [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/index.php). Are you a scholar in math or a related field? You should consider adding your dissertation, and let the branches grow!
