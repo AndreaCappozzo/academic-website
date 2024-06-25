@@ -107,16 +107,15 @@ A robust approach to model-based classification based on trimming and constraint
 
 **Submitted and working papers**  
 
-1. **Cappozzo, A.**, Casa, A., Fop, M. (2023+)  
-Sparse model-based clustering of three-way data via lasso-type penalties  
+1. Caldera, L., Masci, C., **Cappozzo, A.**, Forlani, M., Antonelli, B., Leoni, O., Ieva, F. (2024+)  
+Uncover mortality patterns and hospital effects in COVID-19 heart failure patients: a novel Multilevel logistic cluster-weighted modeling approach  
 *Submitted*   
-[arXiv](https://arxiv.org/abs/2307.10673) | [code](https://github.com/AndreaCappozzo/sparsemixmat)
+[arXiv](https://arxiv.org/abs/2405.11239) | [code](https://github.com/luca2245/ML-CWMd)
 
-1. Rossi, A., **Cappozzo, A.**, & Ieva, F. (2023+)    
-Functional Boxplot Inflation Factor adjustment through Robust Covariance Estimators      
-*Submitted*   
-[mox report](https://mox.polimi.it/reports-and-books/publication-results/?id=1163)
-| [code](https://github.com/annachiara-rossi/robust-adj-fbplot)
+1. **Cappozzo, A.**, Casa, A., Fop, M. (2024+)  
+Sparse model-based clustering of three-way data via lasso-type penalties  
+*Revision submitted*   
+[arXiv](https://arxiv.org/abs/2307.10673) | [code](https://github.com/AndreaCappozzo/sparsemixmat)
 
 
 <!-- [Publications in monographs and refereed conference proceedings]({{< ref "/publications_full_list/index.md" >}}) -->

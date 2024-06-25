@@ -57,6 +57,5 @@ Statistician, currently Assistant Professor (RTDB) at the [Department of Economi
 
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
-* Honored to have received the [Young Researcher Paper Award](cladag_2023_award_CAPPOZZO.pdf) at Cladag 2023 conference! I presented a working paper on clustering lifetime data with frailties and random covariates, a collaboration with colleagues Ieva, F., Masci, C. and Paganoni, A.M. from the MOX Health Analytics research area
 
-* [New Preprint!](https://arxiv.org/abs/2307.10673) Sparse model-based clustering of three-way data via lasso-type penalties   (joint work with Casa, A. and Fop, M.) 
+* [New Preprint!](https://arxiv.org/abs/2405.11239) Uncover mortality patterns and hospital effects in COVID-19 heart failure patients: a novel Multilevel logistic cluster-weighted modeling approach   (joint work with Caldera, A., Masci, C., Ieva, F. et al.) 
