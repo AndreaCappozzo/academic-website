@@ -107,6 +107,11 @@ A robust approach to model-based classification based on trimming and constraint
 
 **Submitted and working papers**  
 
+1. **Cappozzo, A.**, Casa, A. (2024+)  
+Model-based clustering for covariance matrices via penalized Wishart mixture models   
+*Submitted*   
+[arXiv](https://arxiv.org/abs/2408.17040) | [code](https://github.com/AndreaCappozzo/sparsemixwishart)
+
 1. Caldera, L., Masci, C., **Cappozzo, A.**, Forlani, M., Antonelli, B., Leoni, O., Ieva, F. (2024+)  
 Uncover mortality patterns and hospital effects in COVID-19 heart failure patients: a novel Multilevel logistic cluster-weighted modeling approach  
 *Submitted*   

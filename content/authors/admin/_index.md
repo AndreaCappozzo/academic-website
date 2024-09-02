@@ -58,4 +58,4 @@ Statistician, currently Assistant Professor (RTDB) at the [Department of Economi
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
 
-* [New Preprint!](https://arxiv.org/abs/2405.11239) Uncover mortality patterns and hospital effects in COVID-19 heart failure patients: a novel Multilevel logistic cluster-weighted modeling approach   (joint work with Caldera, A., Masci, C., Ieva, F. et al.) 
+* [New Preprint!](https://arxiv.org/abs/2408.17040) Model-based clustering for covariance matrices via penalized Wishart mixture models   (joint work with Casa, A.) 
