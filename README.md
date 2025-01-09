@@ -1,3 +1,2 @@
 # academic-website
-Repo for academic style website.  
-[https://andreacappozzo.rbind.io](https://andreacappozzo.rbind.io)
+Old repo for academic style website (not updated since 31/12/2024)
